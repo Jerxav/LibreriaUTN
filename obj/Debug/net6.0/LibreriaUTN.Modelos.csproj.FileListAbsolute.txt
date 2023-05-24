@@ -1,0 +1,12 @@
+C:\Users\jerxa\source\repos\LibreriaUTN.Modelos\bin\Debug\net6.0\LibreriaUTN.Modelos.deps.json
+C:\Users\jerxa\source\repos\LibreriaUTN.Modelos\bin\Debug\net6.0\LibreriaUTN.Modelos.dll
+C:\Users\jerxa\source\repos\LibreriaUTN.Modelos\bin\Debug\net6.0\LibreriaUTN.Modelos.pdb
+C:\Users\jerxa\source\repos\LibreriaUTN.Modelos\obj\Debug\net6.0\LibreriaUTN.Modelos.csproj.AssemblyReference.cache
+C:\Users\jerxa\source\repos\LibreriaUTN.Modelos\obj\Debug\net6.0\LibreriaUTN.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerxa\source\repos\LibreriaUTN.Modelos\obj\Debug\net6.0\LibreriaUTN.Modelos.AssemblyInfoInputs.cache
+C:\Users\jerxa\source\repos\LibreriaUTN.Modelos\obj\Debug\net6.0\LibreriaUTN.Modelos.AssemblyInfo.cs
+C:\Users\jerxa\source\repos\LibreriaUTN.Modelos\obj\Debug\net6.0\LibreriaUTN.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\jerxa\source\repos\LibreriaUTN.Modelos\obj\Debug\net6.0\LibreriaUTN.Modelos.dll
+C:\Users\jerxa\source\repos\LibreriaUTN.Modelos\obj\Debug\net6.0\refint\LibreriaUTN.Modelos.dll
+C:\Users\jerxa\source\repos\LibreriaUTN.Modelos\obj\Debug\net6.0\LibreriaUTN.Modelos.pdb
+C:\Users\jerxa\source\repos\LibreriaUTN.Modelos\obj\Debug\net6.0\ref\LibreriaUTN.Modelos.dll
